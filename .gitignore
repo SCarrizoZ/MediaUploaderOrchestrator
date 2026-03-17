@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+env/
+venv/
+.env/
+
+# Data
+data/
